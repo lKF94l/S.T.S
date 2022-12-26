@@ -1,4 +1,4 @@
-# S.T.S
+# S.T.S-GitHub
 <hr>
 <h1>[게임이름]
 <h2>S.T.S
